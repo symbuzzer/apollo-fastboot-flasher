@@ -1,4 +1,4 @@
-# One-click fastboot ROM flasher Windows script for Mi 10T and Mi 10T Pro (Apollo)
+# One-click fastboot ROM flasher Windows script for Xiaomi Mi 10T and Mi 10T Pro (Apollo)
 Tested on V14.0.4.0.SJDMIXM (MIUI 14 & Android 12)  
 ## How to use:
 - [Download](https://github.com/symbuzzer/apollo-fastboot-flasher/releases/latest/download/apollo-fastboot-flasher.bat) latest script and vopy it to the location where the images folder is located.  
